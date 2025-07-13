@@ -38,6 +38,8 @@ git clone https://github.com/Pedro-Kks/POO-Csharp-Sonic.git
 2- Navegue até o projeto e rode o comando
 ```bash
 cd pasta-do-projeto
+dotnet restore
+dotnet build
 dotnet run
 ```
 
