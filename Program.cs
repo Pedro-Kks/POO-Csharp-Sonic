@@ -84,5 +84,5 @@ namespace Consopro
             Console.WriteLine($"Agora ele tem {ourico.Rings} Rings💍 e {ourico.Esmeraldas} Esmeraldas💎.");
             Console.WriteLine("Rode o programa mais uma vez se quiser testar novamente.");
         }
-        }
     }
+}
