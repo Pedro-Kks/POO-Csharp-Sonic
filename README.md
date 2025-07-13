@@ -33,7 +33,7 @@ Depois gera valores aleatórios para rings e esmeraldas e chama o método `Pegar
 
 1️- Clone ou baixe este repositório  
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Pedro-Kks/POO-Csharp-Sonic.git
 ````
 2- Navegue até o projeto e rode o comando
 ```bash
