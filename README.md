@@ -35,7 +35,7 @@ Depois gera valores aleatórios para rings e esmeraldas e chama o método `Pegar
 ```bash
 git clone https://github.com/Pedro-Kks/POO-Csharp-Sonic.git
 ````
-2- Navegue até o projeto e rode o comando
+2- Navegue até o projeto e rode os comandos
 ```bash
 cd pasta-do-projeto
 dotnet restore
